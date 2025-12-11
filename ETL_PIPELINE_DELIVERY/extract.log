@@ -1,0 +1,36 @@
+2025-12-11 11:23:49,493 - INFO - Extracting AQI data for city=Delhi, attempt=1
+2025-12-11 11:23:50,313 - ERROR - \u274c Error fetching Delhi: 410 Client Error: Gone for url: https://api.openaq.org/v2/latest?city=Delhi
+2025-12-11 11:23:52,315 - INFO - Extracting AQI data for city=Delhi, attempt=2
+2025-12-11 11:23:52,683 - ERROR - \u274c Error fetching Delhi: 410 Client Error: Gone for url: https://api.openaq.org/v2/latest?city=Delhi
+2025-12-11 11:23:54,684 - INFO - Extracting AQI data for city=Delhi, attempt=3
+2025-12-11 11:23:55,068 - ERROR - \u274c Error fetching Delhi: 410 Client Error: Gone for url: https://api.openaq.org/v2/latest?city=Delhi
+2025-12-11 11:23:57,070 - CRITICAL - \U0001f6a8 Failed to fetch Delhi after 3 attempts.
+2025-12-11 11:23:57,074 - INFO - Extracting AQI data for city=Bengaluru, attempt=1
+2025-12-11 11:23:57,537 - ERROR - \u274c Error fetching Bengaluru: 410 Client Error: Gone for url: https://api.openaq.org/v2/latest?city=Bengaluru
+2025-12-11 11:23:59,539 - INFO - Extracting AQI data for city=Bengaluru, attempt=2
+2025-12-11 11:24:00,038 - ERROR - \u274c Error fetching Bengaluru: 410 Client Error: Gone for url: https://api.openaq.org/v2/latest?city=Bengaluru
+2025-12-11 11:24:02,039 - INFO - Extracting AQI data for city=Bengaluru, attempt=3
+2025-12-11 11:24:02,425 - ERROR - \u274c Error fetching Bengaluru: 410 Client Error: Gone for url: https://api.openaq.org/v2/latest?city=Bengaluru
+2025-12-11 11:24:04,426 - CRITICAL - \U0001f6a8 Failed to fetch Bengaluru after 3 attempts.
+2025-12-11 11:24:04,429 - INFO - Extracting AQI data for city=Hyderabad, attempt=1
+2025-12-11 11:24:04,914 - ERROR - \u274c Error fetching Hyderabad: 410 Client Error: Gone for url: https://api.openaq.org/v2/latest?city=Hyderabad
+2025-12-11 11:24:06,916 - INFO - Extracting AQI data for city=Hyderabad, attempt=2
+2025-12-11 11:24:07,336 - ERROR - \u274c Error fetching Hyderabad: 410 Client Error: Gone for url: https://api.openaq.org/v2/latest?city=Hyderabad
+2025-12-11 11:24:09,337 - INFO - Extracting AQI data for city=Hyderabad, attempt=3
+2025-12-11 11:24:09,884 - ERROR - \u274c Error fetching Hyderabad: 410 Client Error: Gone for url: https://api.openaq.org/v2/latest?city=Hyderabad
+2025-12-11 11:24:11,885 - CRITICAL - \U0001f6a8 Failed to fetch Hyderabad after 3 attempts.
+2025-12-11 11:24:11,886 - INFO - Extracting AQI data for city=Mumbai, attempt=1
+2025-12-11 11:24:12,532 - ERROR - \u274c Error fetching Mumbai: 410 Client Error: Gone for url: https://api.openaq.org/v2/latest?city=Mumbai
+2025-12-11 11:24:14,533 - INFO - Extracting AQI data for city=Mumbai, attempt=2
+2025-12-11 11:24:15,027 - ERROR - \u274c Error fetching Mumbai: 410 Client Error: Gone for url: https://api.openaq.org/v2/latest?city=Mumbai
+2025-12-11 11:24:17,028 - INFO - Extracting AQI data for city=Mumbai, attempt=3
+2025-12-11 11:24:17,388 - ERROR - \u274c Error fetching Mumbai: 410 Client Error: Gone for url: https://api.openaq.org/v2/latest?city=Mumbai
+2025-12-11 11:24:19,390 - CRITICAL - \U0001f6a8 Failed to fetch Mumbai after 3 attempts.
+2025-12-11 11:24:19,393 - INFO - Extracting AQI data for city=Kolkata, attempt=1
+2025-12-11 11:24:19,825 - ERROR - \u274c Error fetching Kolkata: 410 Client Error: Gone for url: https://api.openaq.org/v2/latest?city=Kolkata
+2025-12-11 11:24:21,827 - INFO - Extracting AQI data for city=Kolkata, attempt=2
+2025-12-11 11:24:22,270 - ERROR - \u274c Error fetching Kolkata: 410 Client Error: Gone for url: https://api.openaq.org/v2/latest?city=Kolkata
+2025-12-11 11:24:24,271 - INFO - Extracting AQI data for city=Kolkata, attempt=3
+2025-12-11 11:24:24,780 - ERROR - \u274c Error fetching Kolkata: 410 Client Error: Gone for url: https://api.openaq.org/v2/latest?city=Kolkata
+2025-12-11 11:24:26,781 - CRITICAL - \U0001f6a8 Failed to fetch Kolkata after 3 attempts.
+2025-12-11 11:24:26,782 - INFO - \U0001f4e6 Extraction complete. Total files saved: 0
